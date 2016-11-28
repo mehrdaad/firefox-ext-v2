@@ -16,6 +16,9 @@
   "keywords": [
     "read", "wallabag"
   ],
+  "permissions": {
+    "multiprocess": true
+  },
   "preferences": [
     {
         "name": "wallabagUrl",
