@@ -17,6 +17,7 @@
     "read", "wallabag"
   ],
   "permissions": {
+    "private-browsing": true,
     "multiprocess": true
   },
   "preferences": [
